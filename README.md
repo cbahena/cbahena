@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi I am Carlos!
 
 <!--
 **cbahena/cbahena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="justify">
-Welcome to my GitHub Page. I am Carlos Bahena a Software engineer, I have been programming for more than 10 years and worked with many languages and technologies.
+Welcome to my GitHub Page. I have been programming for more than 10 years and worked with many languages and technologies.
 
 </p>
 
@@ -27,17 +27,21 @@ Welcome to my GitHub Page. I am Carlos Bahena a Software engineer, I have been p
 <table>
   <tr>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" alt="icon" width="65" height="65" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/golang-icon.svg" alt="icon" width="65" height="65" />
       </a>
-      <br>Python
+      <br>Golang
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="[https://techstack-generator.vercel.app/js-icon.svg](https://skillicons.dev/icons?i=go)" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
     <td align="center" width="96">
@@ -45,12 +49,12 @@ Welcome to my GitHub Page. I am Carlos Bahena a Software engineer, I have been p
       <br>C++
     </td>
        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
+        <img src="https://skillicons.dev/icons?i=graphql" alt="icon" width="65" height="65" />
+      <br>GraphQL
     </td>
        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
+        <img src="https://skillicons.dev/icons?i=typescript" width="65" height="65" alt="GitHub" />
+      <br>Typescript
     </td>
           <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
@@ -71,8 +75,8 @@ Welcome to my GitHub Page. I am Carlos Bahena a Software engineer, I have been p
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="GitLab" />
+      <br>VueJs
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -99,8 +103,8 @@ Welcome to my GitHub Page. I am Carlos Bahena a Software engineer, I have been p
       <br>PostgreSQL
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="ASP.NET Core" />
+      <br>Java
     </td>
   </tr>
    <tr>
@@ -117,28 +121,28 @@ Welcome to my GitHub Page. I am Carlos Bahena a Software engineer, I have been p
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="dart" />
+      <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
+        <img src="https://skillicons.dev/icons?i=mongo" width="48" height="48" alt="dart" />
+      <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="dart" />
+      <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
+        <img src="https://skillicons.dev/icons?i=oracle" width="48" height="48" alt="dart" />
+      <br>Oracle
     </td>
     <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="dart" />
+      <br>Mysql
     </td>
     <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
+        <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="dart" />
+      <br>Laravel
     </td>
   </tr>
  <tr>

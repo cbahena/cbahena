@@ -20,6 +20,11 @@ Welcome to my GitHub Page. I have been programming for more than 14 years and wo
 
 </p>
 
+<p align="justify">
+I’m currently working as a fullstack backend, frontend and devops developer following the best standards and good programming practices. I have expertise in programming languages such as Golang, Php, Html, Jsp, Asp, Java, Vb.net, C#, C, C++, PL/SQL, JQUERY, CSS, Assembler, Prolog, Flash, Javascript, Typescript, and proficiency in frameworks like .NET, Bootstrap, Tailwind, Laravel, VueJS, and Node.js with Express. I am knowledgeable in relational databases like Oracle 9i-10g, Mysql, PostgreSQL, Microsoft SQL, and non-relational databases such DynamoDB and MongoDB, using container technologies like Docker, and providing support for creating continuous implementation (CI/CD) processes, Cloud services like Cognito, EC2, S3, SES, API Gateway, CloudWatch, Beanstalk, Lambda, IAM, Router 53, Load Balancer with AWS and Heroku as cloud platform as a service. I am able to manage Windows and Linux Operative Systems, query language GragphQL for APIs, I have strong knowledge of Unified Modeling Language (UML). I have experience with API Rest and SOAP, MathLab, ArcGIS, Salesforce, SendGrid, Mailgun, Crystal Report, StimulSoft, RDF Scheme, OWL Ontologies, MVC, Needleman–Wunsch algorithm, Git, Github, Gitlab and Bitbucket, libraries like React, Java3D, XAJAX and OpenGL
+</p>
+
+
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in

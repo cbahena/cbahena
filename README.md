@@ -36,12 +36,12 @@ Welcome to my GitHub Page. I have been programming for more than 10 years and wo
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/golang-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=golang" alt="icon" width="65" height="65" />
       </a>
       <br>Golang
     </td>
     <td align="center" width="96">
-        <img src="[https://techstack-generator.vercel.app/js-icon.svg](https://skillicons.dev/icons?i=go)" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
     <td align="center" width="96">
@@ -56,11 +56,7 @@ Welcome to my GitHub Page. I have been programming for more than 10 years and wo
         <img src="https://skillicons.dev/icons?i=typescript" width="65" height="65" alt="GitHub" />
       <br>Typescript
     </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Docker
     </td>
@@ -133,8 +129,8 @@ Welcome to my GitHub Page. I have been programming for more than 10 years and wo
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=oracle" width="48" height="48" alt="dart" />
-      <br>Oracle
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="dart" />

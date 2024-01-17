@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="justify">
-Welcome to my GitHub Page. I have been programming for more than 14 years and worked with many languages and technologies.
+Welcome to my GitHub Page. I have been programming for more than 14 years and I've worked with many languages and technologies.
 
 </p>
 

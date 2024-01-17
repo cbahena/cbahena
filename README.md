@@ -21,7 +21,7 @@ Welcome to my GitHub Page. I have been programming for more than 14 years and wo
 </p>
 
 <p align="justify">
-I’m currently working as a backend, frontend and devops Joonik developer. I always love to increase my professional skills by participating in projects with new technology as well as in projects where I have been able to apply my knowledge to improve or create new features that are required in each development, always following the best standards with good programming practices following methodologies that adapt to the current project needs.
+I’m currently working as a backend, frontend and devops developer specialized building REST and GraphQL APIs. I always love to increase my professional skills by participating in projects with new technology as well as in projects where I have been able to apply my knowledge to improve or create new features that are required in each development, always following the best standards with good programming practices following methodologies that adapt to the current project needs.
 </p>
 
 
@@ -72,8 +72,8 @@ I’m currently working as a backend, frontend and devops Joonik developer. I al
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Git" />
+      <br>Node
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="GitLab" />

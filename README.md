@@ -151,7 +151,9 @@ I’m currently working as a backend, frontend and devops developer specialized 
 </table>
 
 ## Projects I have participated 📜
-
+- Legacy Architects V2: Architected and developed a serverless estate planning SaaS platform enabling secure attorney-client collaboration using AWS SAM, Lambda, and PostgreSQL microservices. Tech Stack: AWS SAM, Lambda, EC2, S3, PostgreSQL, Sequelize, Node.js, SendGrid, Clerk, Docker, Sentry error tracking, AWS CDK, AWS Serverless Application Model (AWS SAM), AWS Amplify, Microservices, Lambda, S3, Docker, Sendgrid, Clerk, Postgres, ReactJS, Javascript, HTML, CSS
+- Ez-wins: SaaS software Full-Stack Developer. Tech Stack: Laravel 12, ReactJS, Typescript, OpenAI API, HTML, CSS, MySQL, AWS, Serverless, Lambda, Cloudwatch, Eventbridge, S3, EC2, Docker, AWS devops,
+- Advenits: Full-stack Developer, Tech Stack: Laravel, Vue.Js, CSS, HTML, JavaScript, JQuery, Meilisearch, MySQL, AWS, S3, EC2, AWS devops
 - MobiliHD: Design and development of API for MobiliHD. Tech Stack: Laravel, Mysql, AWS, S3, EC2
 - Legacy Architects: Migration/configuration of AWS servers, CI/CD. Branding colors in views, emails and subdomains, Reconstruction of the authentication system, new features, Impersonate, Export of data to Word (https://legacysystem.com). Tech Stack: Laravel, React, S3, EC2, Sendgrid
 - Flavors of Hilton: Bug fixes for server migration, uploading images to S3 and resizing from the lambda to the corresponding bucket (https://tasteofhilton.com). Tech Stack: NodeJS, Express, Javascript, Lambda, S3, Mongo, Heroku, GIT
